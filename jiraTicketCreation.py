@@ -8,8 +8,8 @@ import os
 
 # Jira API URL
 Jira_URL = "https://sreeniabhinav.atlassian.net"
-Jira_Username = "richagupta361@gmail.com"
-Jira_Password = "ATATT3xFfGF0lzNQVBqrPEi-71s25irNsDokviyKJ1z4hBlAAFTlFe5xFzyjyybnRsCiyoOKgwElC8yIjzcVx0LNy_C2UIICnvWooY6yU5n9bljF2EwcU9UTG4DeEFK4QeGZ3IQV-f07bG_Ryh7CSx58OWjTDQ5b4y102fwKcQOvryw_w8zJ-M8=E59C2200"
+Jira_Username = "ric"
+Jira_Password = ""
 
 # Jira Ticket Creation
 
